@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+### "The greatest danger to our future is apathy." - Jane Goodall
 Use the left arrow to go back!
